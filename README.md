@@ -264,16 +264,6 @@ From this project, we learned:
 
 * * *
 
-## Conclusion
-
-This project demonstrates a simple yet polished frontend UI.  
-It applies core frontend fundamentals while maintaining a professional design.
-
-The profile card is responsive, readable, and visually appealing, making it suitable for real-world use and academic evaluation.
-
-
-
-* * *
 
 ## Live
 
