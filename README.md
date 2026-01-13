@@ -95,7 +95,7 @@ This helps users easily scan the information.
 
 ## Additional Enhancements (Beyond Basic Requirements)
 
-To improve visual quality and score better marks, the following were added:
+To improve visual quality, the following were added:
 
 ### Subtle White Glow
 
